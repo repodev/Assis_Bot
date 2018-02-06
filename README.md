@@ -14,4 +14,8 @@ Renan
 - Gerar banco fotos.db com o criarbd.py
 - Gerar token pelo botfather
 - Adicionar seu id de usuario no arquivo bot.py
-- abrir terminal e executar com comando python.bot
+- abrir terminal e executar com comando python bot.py
+
+## Docs
+Documentação biblioteca [telepot](telepot.readthedocs.io/)
+Sobre bots no [telegram](https://core.telegram.org/bots)
