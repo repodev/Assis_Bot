@@ -1,9 +1,9 @@
 # Assis_Bot
 PROJETO ALGORITMOS E PROGRAMAÇÃO I - IFCE CAMPUS CRATO
 
-Equipe:
-Caique Galdino
-Francisco Lucas
+**Equipe:**
+Caique Galdino  
+Francisco Lucas  
 Renan
 
 ##REQUISITOS
