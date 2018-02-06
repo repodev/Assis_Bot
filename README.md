@@ -17,5 +17,5 @@ Renan
 - abrir terminal e executar com comando python bot.py
 
 ## Docs
-Documentação biblioteca [telepot](telepot.readthedocs.io/)  
+Documentação biblioteca [telepot](http://telepot.readthedocs.io/en/latest/)  
 Sobre bots no [telegram](https://core.telegram.org/bots)
