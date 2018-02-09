@@ -1,5 +1,5 @@
 import sqlite3, time
-conectar = sqlite3.connect('fotos.db')
+conectar = sqlite3.connect('fotos.db',check_same_thread = False)
 c = conectar.cursor()
 
 def inserir_imagens(n, d, id_u,n_u,n_o):
