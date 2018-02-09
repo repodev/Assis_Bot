@@ -22,11 +22,11 @@ def corpo(msg):
         recebe_comandos = str(recebeComandoFotos(texto,msg))
         if texto == '/start':
           bot.sendMessage(chat_id,"""
-Olá, bem vindo calouro, me chamo AssiS, meus comandos são esses:
+Bem vindo calouro, me chamo AssiS, e os meus comandos são os seguintes:
 
-*/listar* = Fotos que salvei.
-*/onb* = horario do onibus.
-*/prof* = Contato dos professores.
+*/listar* = Fotos que firam salvas.
+*/onb* = Horário do onibus.
+*/prof* = Ficha dos professores.
           """
           ,parse_mode='Markdown')
         elif texto == 'oi':
@@ -40,7 +40,7 @@ Olá, bem vindo calouro, me chamo AssiS, meus comandos são esses:
         elif texto == '/prof':
             professor(bot,msg,chat_id)
         else:
-            bot.sendMessage(chat_id,"Não conheço sua linguagem.")
+            bot.sendMessage(chat_id,"Não sou esse tipo de bot.")
           
     elif content_type == 'photo':
         baixarFotos(bot,msg,chat_id)
