@@ -4,7 +4,7 @@ PROJETO ALGORITMOS E PROGRAMAÇÃO I - IFCE CAMPUS CRATO
 **Equipe:**  
 Caique Galdino  
 Francisco Lucas  
-Renan
+Renan Gustavo
 
 ##REQUISITOS
 - Python 2.7
