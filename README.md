@@ -1,3 +1,5 @@
+# I am no longer maintaining
+
 # Assis_Bot
 PROJETO ALGORITMOS E PROGRAMAÇÃO I - IFCE CAMPUS CRATO
 
@@ -7,8 +9,8 @@ Francisco Lucas
 Renan Gustavo
 
 ##REQUISITOS
-- Python 2.7
-- telepot
+- Python 2.7 [coming soon for python 3.7]
+- telepot [this library archived by developer]
 
 ## COMO EXECUTAR
 - Gerar token pelo botfather
